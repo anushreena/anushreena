@@ -6,10 +6,10 @@
 
 **- 🔭 I’m currently working as a Data Analyst in marketing science field.**
 
-**- 🌱 I’m currently working on Python,Sql,Excel,Tableau and PowerBi tools.**
-
 **- 📫 How to reach me: anushreemanohar27@gmail.com**
 
+**Languages and Tools:**
+https://www.mysql.com/
 
 
 <!--
