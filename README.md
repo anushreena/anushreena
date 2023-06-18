@@ -1,5 +1,6 @@
-### Hi 👋, I'm Anushree
 ![image](https://github.com/anushreena/anushreena/assets/45304862/16c76f4f-3076-4134-bf9b-8ff604dd1e56)
+### Hi 👋, I'm Anushree
+
 
 <!--
 **anushreena/anushreena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
