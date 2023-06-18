@@ -1,9 +1,13 @@
 ![image](https://github.com/anushreena/anushreena/assets/45304862/671a3583-3ac0-4d63-80c4-daa99e9fd57f)
        
        
-       Hi 👋, I'm Anushree
+       Hi 👋, I am Anushree!
   
-  A Passionate Data Analyst
+Passionate about leveraging data to uncover meaningful insights and drive business success. Committed to helping organizations make data-driven decisions.
+
+🔭 I'm currently working as a Data Analyst in marketing science field.
+🌱 I'm Curretnly working on Python,Sql,Excel,Tableau and PowerBi tools.
+📫 How to reach me : anushreemanohar27@gmail.com
 
 
 <!--
