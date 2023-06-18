@@ -2,6 +2,8 @@
        
        
        Hi 👋, I'm Anushree
+  
+  A Passionate Data Analyst
 
 
 <!--
