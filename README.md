@@ -4,7 +4,7 @@
 **Hi 👋, I am Anushree!**
   
 
-**- 🔭 I’m currently working as a Data Analyst in marketing science field.**
+**- 🔭 I’m currently working as a Financial Analyst for investement banking.**
 
 **- 📫 How to reach me: anushreemanohar27@gmail.com**
 
